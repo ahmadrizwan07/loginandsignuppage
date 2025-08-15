@@ -1,5 +1,5 @@
 const formBox1 = document.getElementById("formBox1");
-const signUpBtn = document.getElementById("formBox1");
+const signUpBtn = document.getElementById("SignUpBtn");
 const formBox2 = document.getElementById("formBox2");
 const loginBtn = document.getElementById("loginBtn");
 
